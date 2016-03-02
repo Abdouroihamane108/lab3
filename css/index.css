@@ -1,0 +1,135 @@
+#content{
+  margin: auto;
+ 
+  width: 80%;
+ 
+  
+}
+
+.top p{
+	background-image:url(../images/bg.gif); 
+	color: #FEFDFD;
+	text-align: right;
+	padding-right: 11.5%;
+	height: 25px;
+	padding-top: 4px;
+}
+#header .menu{
+	text-align: right;
+	text-decoration: none;
+	list-style: none;
+}
+
+
+#header .text{
+	
+	width: 150px;
+	background-image: url(../images/redbg.gif);
+	padding-left: 15px;
+	padding-top: 100px;
+	color: #FFFFFF;
+	margin-top: -44px;
+	font-size: 18px;
+}
+
+ ul li a{
+	float: right;
+	color: #090101;
+	padding: 0 40px;
+	text-align: right;
+	line-height: 42px;
+	height: 42px;
+	text-decoration: none;
+	padding-top: 80px;
+	margin-right: -20px;
+	font-size:18px;
+	font-family: arial;
+}
+
+ul li a:hover{
+	text-decoration: underline;	
+}
+
+.main_right{
+	width: 10%;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-right: -120px;
+}
+
+.mainText{
+	width:61%;
+	float: left;
+	margin-right: 95px;
+	text-align: center;
+	text-align: left;`
+	margin-bottom: 200px;
+}
+
+.image{
+	width: 29%;
+	float: right;
+	margin-right: -37px;
+	margin-top: 80px;
+}
+.section{
+	width: 29%;
+	float: left;
+	margin-right: 46px;
+	text-align: center;
+	text-align: justify;
+}
+
+#footer .footer_left{
+	width: 30%;
+	float: left;
+	margin-right: 4%;
+	text-align: center;
+	text-align: justify;`
+}
+#footer .footer_right{
+	width: 60%;
+	float: left;
+	text-align: center;
+	text-align: justify;`
+}
+
+.section h3{
+	background-image: url(../images/redbg.gif);
+	color: #FBF7F7;
+	padding:10px;
+	font-family: arial;
+	width: 80%;
+}
+ 
+#footer .footer_right h3{
+	width: 80px;
+	background:url(../images/bg.gif) ;
+	height: auto;
+	color: #FFFFFF;
+}
+
+.left_col{
+	float: left;
+	width: 64%;
+	margin: -2% 1% 1% 1%;
+	padding-top: 70px;
+	font-family: arial;
+	font-size: 1.2em;
+}
+
+.sidebar{
+	width: 30%;
+	float: right;
+	margin: 5px -41px 10px 0px;
+	
+}
+
+.therapy{
+	float: left;
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+	padding: 1%;
+}
